@@ -1,0 +1,2 @@
+4| Impressora não imprime! |Impressora|Minha impressora não está imprimindo|
+4|Antivirus travando a tela |Software|Meu antivirus está congelando minha tela e não consigo mexer em nada|
